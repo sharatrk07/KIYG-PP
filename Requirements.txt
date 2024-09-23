@@ -1,0 +1,5 @@
+Pandas
+matplotlib
+scikit-learn
+Seaborn
+Streamlit
