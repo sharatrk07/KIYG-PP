@@ -7,7 +7,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 
 data = pd.read_csv('OLYMP-FINAL.csv', sep=';')
-
 position_mapping = {'FIRST': 1, 'SECOND': 2, 'THIRD': 3}
 
 # Prepare features and target variable
